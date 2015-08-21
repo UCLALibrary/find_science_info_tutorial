@@ -1,5 +1,5 @@
 //VARIABLES
-var modPageCount = new Array (1, 9, 10, 11, 11, 12);
+var modPageCount = new Array (1, 9, 10, 11, 11, 13);
 
 var url;
 var index;
